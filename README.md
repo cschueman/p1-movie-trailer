@@ -14,3 +14,6 @@
 * Audience: Families, disney lovers, kids, 20-somethings desperately seeking out nostalgia about their childhood because they feel hopeless about their futures
 * How should they feel? Happy, hopeful, cheerful
 * Lots of adjectives? Oceanic, colorful, hopeful, musical, adventurous, determined, playful
+
+## Visual Design
+* Collage from Art Direction
