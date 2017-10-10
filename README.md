@@ -11,7 +11,7 @@
 7. Rating
 
 ## Art Direction
-* Audience: Families, disney lovers, kids, 20-somethings desperately seeking out nostalgia about their childhood because they feel hopeless about their futures
+* Audience: Families, disney lovers, kids, 20-somethings desperately trying to feel nostalgic about their childhood because they feel hopeless about their futures
 * How should they feel? Happy, hopeful, cheerful
 * Lots of adjectives? Oceanic, colorful, hopeful, musical, adventurous, determined, playful
 
