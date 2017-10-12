@@ -1,4 +1,5 @@
 //my scripts
 
-$('video').mediaelementplayer();
+$('h1').lettering();
 
+$('video').mediaelementplayer();
