@@ -1,1 +1,4 @@
 //my scripts
+
+$('video').mediaelementplayer();
+
