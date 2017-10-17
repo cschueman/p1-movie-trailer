@@ -1,8 +1,20 @@
 @import 'normalize';
 @import 'mediaelementplayer';
+@import url('https://fonts.googleapis.com/css?family=Catamaran|Quicksand');
+
 
 /* styling */
 
 body {
-    background: green;
+    background: beige;
+}
+
+h1 {
+    color: aqua;
+    font-size: 4em;
+    font-family: 'Quicksand', sans-serif;
+}
+
+p {
+    font-family: 'Catamaran', sans-serif;
 }
