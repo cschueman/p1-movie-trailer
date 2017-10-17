@@ -1132,4 +1132,18 @@ h1 {
 p {
   font-family: 'Catamaran', sans-serif; }
 
+/* Layout */
+/* line 24, /Users/cschueman/Desktop/p1-movie-trailer/css/styles.scss */
+.page {
+  display: flex; }
+
+/* line 28, /Users/cschueman/Desktop/p1-movie-trailer/css/styles.scss */
+header,
+section,
+main,
+article,
+aside,
+footer {
+  flex: 1; }
+
 /*# sourceMappingURL=styles.css.map */

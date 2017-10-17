@@ -18,3 +18,18 @@ h1 {
 p {
     font-family: 'Catamaran', sans-serif;
 }
+
+/* Layout */
+
+.page {
+display: flex;
+}
+
+header,
+section,
+main,
+article,
+aside,
+footer {
+    flex: 1;
+}
