@@ -1,16 +1,14 @@
-@import 'normalize';
-@import 'mediaelementplayer';
 @import url('https://fonts.googleapis.com/css?family=Catamaran|Quicksand');
 
 
 /* styling */
 
 body {
-    background: beige;
+    background: pink;
 }
 
 h1 {
-    color: aqua;
+    color: blue;
     font-size: 4em;
     font-family: 'Quicksand', sans-serif;
 }
@@ -32,4 +30,10 @@ article,
 aside,
 footer {
     flex: 1;
+}
+
+// Overriding default styling
+
+.mejs__time-rail {
+    
 }
