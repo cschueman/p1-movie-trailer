@@ -3,34 +3,64 @@
 
 /* styling */
 
-body {
-    background: pink;
-}
 
-h1 {
-    color: blue;
+header {
+    color: #99ebff;
     font-size: 4em;
     font-family: 'Quicksand', sans-serif;
 }
 
+section {
+  border: 1px solid black;
+}
+
 p {
     font-family: 'Catamaran', sans-serif;
+  font-size: 1.5em;
+  line-height: 200%;
+  background: #f9f9eb;
+  padding: 30px;
 }
+
+.cast {
+  width: 40%;
+}
+
+.reviews {
+  width: 50%;
+}
+
 
 /* Layout */
 
 .page {
 display: flex;
+  flex-direction: column;
+  align-items: center;
+    background: beige;
 }
 
-header,
-section,
-main,
-article,
-aside,
-footer {
-    flex: 1;
+aside {
+  display: flex;
+  justify-content: space-between;
+  width: 75%;
+  margin: 0 auto;
 }
+
+article {
+  max-width: 75%;
+  margin: 0 auto;
+}
+
+// header,
+// main,
+// article,
+// aside,
+// footer {
+//     flex: 1;
+// }
+
+
 
 // Overriding default styling
 

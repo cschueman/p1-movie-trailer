@@ -8,7 +8,7 @@
 4. Movie description
 5. Actors, directors, etc.
 6. Imagery
-7. Rating
+7. Reviews
 
 ## Art Direction
 * Audience: Families, disney lovers, kids, 20-somethings desperately trying to feel nostalgic about their childhood because they feel hopeless about their futures
