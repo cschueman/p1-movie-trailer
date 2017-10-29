@@ -12,6 +12,7 @@ header {
 
 section {
   border: 1px solid black;
+  width: 100%;
 }
 
 p {
@@ -20,29 +21,20 @@ p {
   line-height: 200%;
   background: #f9f9eb;
   padding: 30px;
-}
-
-.cast {
-  width: 40%;
-}
-
-.reviews {
-  width: 50%;
+  border-radius: 10px;
 }
 
 
 /* Layout */
 
 .page {
-display: flex;
-  flex-direction: column;
   align-items: center;
-    background: beige;
+  background-image:url(http://www.atlaspropertyportugal.com/public/uploads/pages/beach02.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 aside {
-  display: flex;
-  justify-content: space-between;
   width: 75%;
   margin: 0 auto;
 }
@@ -52,18 +44,17 @@ article {
   margin: 0 auto;
 }
 
-// header,
-// main,
-// article,
-// aside,
-// footer {
-//     flex: 1;
-// }
+footer p{
+  font-size: .5em;
+  max-width: 200px;
+  padding: 10px;
+  margin: 10px;
+}
 
-
-
-// Overriding default styling
-
-.mejs__time-rail {
-    
+header,
+main,
+article,
+aside,
+footer {
+    flex: 1;
 }
